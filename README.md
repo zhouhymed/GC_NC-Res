@@ -10,3 +10,5 @@ This part includes custom codes to predict the survival outcomes of GC patients.
 ## Citation
 Finally: We'd love to hear from you. Please let us know if you have any comments or suggestions, or if you have questions about the code or the procedure.
 Thanks for your interest:)
+
+## 来源文章doi:10.1038/s41467-024-46043-y
